@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quiz Game</string>
+    <string name="title_text">Trivia</string>
+    <string name="True_button_text">TRUE</string>
+    <string name="False_button_text">FALSE</string>
+    <string name="question_counter">Question:- 45/913</string>
+    <string name="next_button_text">NEXT</string>
+    <string name="question_text">Hello world this is where  we are going to add actual text to be shown!</string>
+    <string name="Axtivity_2_text">Click below  to start the Game</string>
+    <string name="Activity2_button">START</string>
+    <string name="Quit_button">QUIT</string>
+    <string name="Activity3_button">Restart</string>
+    <string name="Activity3_text_view">"Click below to Restart "</string>
+    <string name="score_text">Current score:-0</string>
+    <string name="total_score">"your score is :- 0 "</string>
+    <string name="regard">"better luck next time "</string>
+    <string name="highest_score">0</string>
+    <string name="attempted_question">Attempted Question :-0</string>
+</resources>

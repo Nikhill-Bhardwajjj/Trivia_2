@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="title_text_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">64dp</item>
+        <item name="android:fontFamily">@font/chango</item>
+        <item name="android:padding">6dp</item>
+    </style>
+
+    <style name="button_style">
+        <item name="android:layout_margin">@dimen/button_margin</item>
+        <item name="android:backgroundTint">#03061C</item>
+        <item name="android:padding">@dimen/button_padding</item>
+        <item name="android:textColor">#536DFE</item>
+    </style>
+
+    <style name="Activity3_text_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">140dp</item>
+        <item name="android:padding">6dp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+</resources>
